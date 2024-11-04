@@ -68,6 +68,8 @@ const modeCards: Array<modeCard> = [
 		gap: 157px;
 		padding-left: 42px;
 		border: 3px	solid #5F7666;
+		border-radius: $radius;
+		background-color: white;
 	}
 
 	&__cards {

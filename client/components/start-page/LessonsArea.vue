@@ -53,6 +53,7 @@ const lessonCards: Array<lessonCard> = [
 
 <style lang="scss" scoped>
 .lessons-area {
+	width: 100%;
 	background-color: white;
 	align-self: center;
 	display: inline-flex;
@@ -60,16 +61,21 @@ const lessonCards: Array<lessonCard> = [
 	gap: 65px;
 	padding-top: 10px;
 	padding-bottom: 94px;
+	padding-left: 92px;
 
 	&__title {
-		font-family: IBM Plex Mono;
+		color: rgb(95, 118, 102);
 		font-weight: 300;
 		font-size: 64px;
+		position: relative;
+		left: 62px;
 	}
 
 	&__lessons {
 		display: inline-grid;
 		grid-template-columns: 1fr 1fr;
+		column-gap: 40px;
+		row-gap: 34px;
 		width: 100%;
 	}
 }

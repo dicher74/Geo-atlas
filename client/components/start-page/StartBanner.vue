@@ -4,7 +4,9 @@ import Logo from '../Logo.vue';
 
 <template>
 	<section class="start-banner">
-		<p class="start-banner__title">Geo-атлас</p>
+		<p class="start-banner__title">
+				<span style="font-weight: 700; font-style: italic;">Geo-</span>
+				<span style="font-weight: 300;">атлас</span></p>
 		<Logo :width="249" :height="234" />
 		<p class="start-banner__description">
 			{{`Прокачивай знания с 
@@ -37,6 +39,9 @@ import Logo from '../Logo.vue';
 		white-space: pre-line;
 		text-align: center;
 		font-size: 32px;
+		color: #507C5C;
+		font-style: italic;
+		font-weight: 400;
 	}
 }
 

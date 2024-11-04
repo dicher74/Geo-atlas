@@ -7,18 +7,17 @@
 	</div>
 </template>
 
+<script lang="ts" setup>
+definePageMeta({
+  layout: 'default'
+})
+</script>
+
 <style lang="scss" scoped>
 .start-page-wrapper {
 	width: 100%;
-	height: 100vh;
 	display: inline-flex;
 	flex-direction: column;
 	gap: 350px;
-	scroll-snap-type: y mandatory;
-	overflow-y: scroll;
-}
-
-.start-page-section {
-	scroll-snap-align: center;
 }
 </style>

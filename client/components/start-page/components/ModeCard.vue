@@ -25,6 +25,8 @@ const props = defineProps<{
 	padding-top: 10px;
 	background-color: #D2F6D7;
 	height: 156px;
+	border-radius: $radius;
+	box-shadow: 6px 6px 2px 0px rgba(0, 0, 0, 0.25);
 
 	&__image {
 		width: 90px;
@@ -41,10 +43,14 @@ const props = defineProps<{
 
 .description {
 	&__main {
+		font-style: italic;
+		line-height: 23px;
 		font-size: 18px;
 		white-space: pre-line;
 	}
 	&__title {
+		color: rgb(95, 118, 102);
+		font-weight: 500;
 		white-space: nowrap;
 		font-size: 24px;
 	}

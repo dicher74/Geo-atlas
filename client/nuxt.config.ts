@@ -22,6 +22,13 @@ export default defineNuxtConfig({
         transformAssetUrls,
       },
     },
+		css: {
+			preprocessorOptions: {
+				scss: {
+						additionalData: '@import "@/assets/styles/variables.scss";',
+				},
+			},
+		}
   },
   css: ['./assets/styles/master.css']
 })

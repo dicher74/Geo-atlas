@@ -23,10 +23,14 @@ const rank = store.getters.getRank
 
 <style lang="scss" scoped>
 .achievements-area {
-	width: 1254px;
-	align-self: center;
+	width: 100%;
+	height: 100vh;
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
 }
 .achievements-card {
+	width: 1254px;
 	box-sizing: border-box;
 	border: 3px solid rgb(80, 124, 92);
 	border-radius: $radius;

@@ -1,20 +1,29 @@
 <template>
-	<div class="mode-card">
-		<img class="mode-card__image" :src="`/icons/${props.image}.svg`" />
-		<div class="mode-card__description description">
-			<p class="description__title"> {{ props.title }} </p>
-			<p class="description__main"> {{ props.description }} </p>
+	<NuxtLink to="/lesson">
+		<div class="mode-card" @click="chooseMode(props.modeType)">
+			<img class="mode-card__image" :src="`/icons/${props.image}.svg`" />
+			<div class="mode-card__description description">
+				<p class="description__title"> {{ props.title }} </p>
+				<p class="description__main"> {{ props.description }} </p>
+			</div>
 		</div>
-	</div>
+	</NuxtLink>
 </template>
 
 <script setup lang="ts">
+import { store } from '~/store';
+
 const props = defineProps<{
+	modeType: 'queez' | 'level'
 	image: string
 	title: string
 	description: string
 }>()
 
+function chooseMode(modeType: 'queez' | 'level') {
+	console.log('click')
+	store.commit('setLessonType', modeType)
+}
 </script>
 
 <style lang="scss" scoped>
@@ -27,6 +36,7 @@ const props = defineProps<{
 	height: 156px;
 	border-radius: $radius;
 	box-shadow: 6px 6px 2px 0px rgba(0, 0, 0, 0.25);
+	width: 100%;
 
 	&__image {
 		width: 90px;

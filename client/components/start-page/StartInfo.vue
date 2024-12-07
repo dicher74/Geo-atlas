@@ -4,7 +4,8 @@ import ModeCard from './components/ModeCard.vue';
 interface modeCard {
 	title: string,
 	description: string,
-	image: string
+	image: string,
+	modeType: 'level' | 'queez'
 }
 
 const modeCards: Array<modeCard> = [
@@ -12,13 +13,15 @@ const modeCards: Array<modeCard> = [
 		title: 'Режим приключения',
 		description: `Зарабатывайте очки, проходя
 					уровни разной сложности!`,
-		image: 'chest 1'
+		image: 'chest 1',
+		modeType: 'level'
 	},
 	{
 		title: 'Классический режим',
 		description: `Выполняй квизы на различные 
 						географические темы!`,
-		image: 'cubs 1'
+		image: 'cubs 1',
+		modeType: 'queez'
 	}
 ]
 </script>
@@ -47,7 +50,8 @@ const modeCards: Array<modeCard> = [
 				v-for="card, cardNum in modeCards" :key="`mode-card_num-${cardNum}`"
 				:title="card.title"
 				:description="card.description"
-				:image="card.image">
+				:image="card.image"
+				:mode-type="card.modeType">
 			</ModeCard>
 		</div>
 	</section>
@@ -55,14 +59,15 @@ const modeCards: Array<modeCard> = [
 
 <style lang="scss" scoped>
 .start-info {
-	width: 1254px;
+	width: 100%;
+	height: 100vh;
 	display: inline-flex;
+	align-items: center;
 	flex-direction: column;
 	gap: 30px;
-	margin: 0 auto;
 
 	&__main {
-		width: 100%;
+		width: 1254px;
 		height: 419px;
 		display: inline-flex;
 		gap: 157px;
@@ -73,6 +78,7 @@ const modeCards: Array<modeCard> = [
 	}
 
 	&__cards {
+		width: 1254px;
 		display: inline-grid;
 		grid-template-columns: 1fr 1fr;
 		gap: 54px;

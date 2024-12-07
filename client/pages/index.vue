@@ -1,15 +1,15 @@
 <template>
   <div class="start-page-wrapper">
 		<StartPageStartBanner class="start-page-section" />
-		<StartPageStartInfo class="start-page-section" />
-		<StartPageLessonsArea class="start-page-section" />
-		<StartPageAchievementsArea class="start-page-section" />
+		<StartPageStartInfo class="start-page-section" id="lessons" />
+		<StartPageLessonsArea class="start-page-section" id="queez" />
+		<StartPageAchievementsArea class="start-page-section" id="rank" />
 	</div>
 </template>
 
 <script lang="ts" setup>
 definePageMeta({
-  layout: 'default'
+  layout: 'start-page'
 })
 </script>
 
@@ -19,5 +19,6 @@ definePageMeta({
 	display: inline-flex;
 	flex-direction: column;
 	gap: 350px;
+	padding-top: 90px;
 }
 </style>

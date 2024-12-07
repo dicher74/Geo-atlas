@@ -1,5 +1,5 @@
 <template>
-	<div class="lesson-card" :style="`background-image: url(/lesson-cards/${props.image}.png); background-size: cover`">
+	<div class="lesson-card" :style="`background-image: url(/lesson-cards/${props.image}.png); background-size: cover;`">
 		<p class="lesson-card__title"> {{ props.title }} </p>
 		<div class="description-area">
 			<img class="description-area__image" src="~assets/images/list.svg"/>

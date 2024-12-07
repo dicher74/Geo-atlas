@@ -10,9 +10,9 @@ onMounted(() => fullHeight.value = document.documentElement.scrollHeight)
 	<div class="default-layout">
 		<div class="default-layout__inner-background" :style="`height: ${fullHeight}px;`"></div>
 		<div style="z-index: 1;">
-			<HeadersEmptyHeader />
+			<HeadersStartPageHeader />
 			<slot></slot>
-			<DefaultFooter/>
+			<DefaultFooter id="contacts"/>
 		</div>
 	</div>
 </template>

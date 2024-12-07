@@ -30,5 +30,6 @@ export default defineNuxtConfig({
 			},
 		}
   },
-  css: ['./assets/styles/master.css']
+  css: ['./assets/styles/master.css'],
+	ssr: true
 })

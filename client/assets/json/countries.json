@@ -1,0 +1,1045 @@
+[
+	{
+		"title": "Австралия",
+		"language": "английский",
+		"capital": "Канберра",
+		"flag": "AU",
+		"currency": "Доллар",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Австрия",
+		"language": "немецкий",
+		"capital": "Вена",
+		"flag": "AT",
+		"currency": "Евро",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Азербайджан",
+		"language": "азербайджанский",
+		"capital": "Баку",
+		"flag": "AZ",
+		"currency": "манат",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Албания",
+		"language": "албанский",
+		"capital": "Тирана",
+		"flag": "AL",
+		"currency": "лек",
+		"difficulty": 3 
+	},
+
+	{
+		"title": "Алжир",
+		"language": "арабский",
+		"capital": "Алжир",
+		"flag": "DZ",
+		"currency": "динар",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Ангола",
+		"language": "португальский",
+		"capital": "Луанда",
+		"flag": "AO",
+		"currency": "кванза",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Андорра",
+		"language": "каталанский",
+		"capital": "Андорра-ла-Велья",
+		"flag": "AD",
+		"currency": "Евро",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Антигуа и Барбуда",
+		"language": "английский",
+		"capital": "Сент-Джонс",
+		"flag": "AG",
+		"currency": "доллар",
+		"difficulty": 3 
+	},
+
+	{
+		"title": "Аргентина",
+		"language": "испанский",
+		"capital": "Буэнос-Айрес",
+		"flag": "AR",
+		"currency": "песо",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Армения",
+		"language": "армянский",
+		"capital": "Ереван",
+		"flag": "AM",
+		"currency": "драм ",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Афганистан",
+		"language": "дари",
+		"capital": "Кабул",
+		"flag": "AF",
+		"currency": "афгани",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Багамы",
+		"language": "английский",
+		"capital": "Нассау",
+		"flag": "BS",
+		"currency": "доллар",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Барбадос",
+		"language": "английский",
+		"capital": "Бриджтаун",
+		"flag": "BB",
+		"currency": "доллар",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Бахрейн",
+		"language": "арабский",
+		"capital": "Манама",
+		"flag": "BH",
+		"currency": " динар",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Белиз",
+		"language": "английский",
+		"capital": "Бельмопан",
+		"flag": "BZ",
+		"currency": "доллар ",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Бенин",
+		"language": "французский",
+		"capital": "Порто-Ново",
+		"flag": "BJ",
+		"currency": "франк",
+		"difficulty": 4 
+	},
+
+	{
+		"title": "Болгария",
+		"language": "болгарский",
+		"capital": "София",
+		"flag": "BG",
+		"currency": "лев",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Бразилия",
+		"language": "португальский",
+		"capital": "Бразилиа",
+		"flag": "BR",
+		"currency": "реал",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Бруней",
+		"language": "малайский",
+		"capital": "Бандар-Сери-Багаван",
+		"flag": "BN",
+		"currency": "доллар",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Буркина Фасо",
+		"language": "французский",
+		"capital": "Уагадугу",
+		"flag": "BF",
+		"currency": "франк",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Бутан",
+		"language": "дзонг-кэ",
+		"capital": "Тхимпху",
+		"flag": "BT",
+		"currency": "нгултрум",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Великобритания",
+		"language": "английский",
+		"capital": "Лондон",
+		"flag": "GB",
+		"currency": "фунт",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Венгрия",
+		"language": "венгерский",
+		"capital": "Будапешт",
+		"flag": "HU",
+		"currency": "форинт",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Венесуэла",
+		"language": "испанский",
+		"capital": "Каракас",
+		"flag": "VE",
+		"currency": "боливар",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Вьетнам",
+		"language": "вьетнамский",
+		"capital": "Ханой",
+		"flag": "VN",
+		"currency": "донг",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Габон",
+		"language": "французский",
+		"capital": "Либревиль",
+		"flag": "GA",
+		"currency": "франк",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Гаити",
+		"language": "французский",
+		"capital": "Порт-о-Пренс",
+		"flag": "HT",
+		"currency": "гурд",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Гана",
+		"language": "английский",
+		"capital": "Аккра",
+		"flag": "GH",
+		"currency": "седи",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Гвинея",
+		"language": "французский",
+		"capital": "Конакри",
+		"flag": "GN",
+		"currency": "франк",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Германия",
+		"language": "немецкий",
+		"capital": "Берлин",
+		"flag": "DE",
+		"currency": "Евро",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Гондурас",
+		"language": "испанский",
+		"capital": "Тегусигальпа",
+		"flag": "HN",
+		"currency": "лемпира",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Греция",
+		"language": "греческий",
+		"capital": "Афины",
+		"flag": "GR",
+		"currency": "Евро",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Грузия",
+		"language": "грузинский",
+		"capital": "Тбилиси",
+		"flag": "GE",
+		"currency": "лари",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Дания",
+		"language": "датский",
+		"capital": "Копенгаген",
+		"flag": "DK",
+		"currency": "крона",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Доминика",
+		"language": "английский",
+		"capital": "Розо",
+		"flag": "DM",
+		"currency": "доллар",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Египет",
+		"language": "арабский",
+		"capital": "Каир",
+		"flag": "EG",
+		"currency": "фунт",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Замбия",
+		"language": "английский",
+		"capital": "Лусака",
+		"flag": "ZM",
+		"currency": "квача",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Израиль",
+		"language": "арабский",
+		"capital": "Иерусалим",
+		"flag": "IL",
+		"currency": "шекель",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Индонезия",
+		"language": "индонезийский",
+		"capital": "Джакарта",
+		"flag": "ID",
+		"currency": "рупия",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Иордания",
+		"language": "арабский",
+		"capital": "Амман",
+		"flag": "JO",
+		"currency": "динар",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Ирак",
+		"language": "арабский",
+		"capital": "Багдад",
+		"flag": "IQ",
+		"currency": "динар ",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Иран",
+		"language": "персидский",
+		"capital": "Тегеран",
+		"flag": "IR",
+		"currency": "риал",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Исландия",
+		"language": "исландский",
+		"capital": "Рейкьявик",
+		"flag": "IS",
+		"currency": "крона",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Испания",
+		"language": "испанский",
+		"capital": "Мадрид",
+		"flag": "ES",
+		"currency": "Евро",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Италия",
+		"language": "итальянский",
+		"capital": "Рим",
+		"flag": "IT",
+		"currency": "Евро",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Йемен",
+		"language": "арабский",
+		"capital": "Сана",
+		"flag": "YE",
+		"currency": "риал",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Кабо-Верде",
+		"language": "португальский",
+		"capital": "Прая",
+		"flag": "CV",
+		"currency": "эскудо",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Камбоджа",
+		"language": "кхмерский",
+		"capital": "Пномпень",
+		"flag": "KH",
+		"currency": "риель",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Катар",
+		"language": "арабский",
+		"capital": "Доха",
+		"flag": "QA",
+		"currency": "риал",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Китай",
+		"language": "китайский",
+		"capital": "Пекин",
+		"flag": "CN",
+		"currency": "юань",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Колумбия",
+		"language": "испанский",
+		"capital": "Санта-Фе-де-Богота",
+		"flag": "CO",
+		"currency": "песо",
+		"difficulty": 2 
+	},
+
+	{
+		"title": "Конго",
+		"language": "французский",
+		"capital": "Браззавиль",
+		"flag": "CG",
+		"currency": "франк",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Кот-д’Ивуар",
+		"language": "французский",
+		"capital": "Ямусукро",
+		"flag": "CI",
+		"currency": "франк",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Куба",
+		"language": "испанский",
+		"capital": "Гавана",
+		"flag": "CU",
+		"currency": "песо",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Кувейт",
+		"language": "арабский",
+		"capital": "Эль-Кувейт",
+		"flag": "KW",
+		"currency": "динар",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Латвия",
+		"language": "латышский",
+		"capital": "Рига",
+		"flag": "LV",
+		"currency": "Евро",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Ливан",
+		"language": "арабский",
+		"capital": "Бейрут",
+		"flag": "LB",
+		"currency": "фунт",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Ливия",
+		"language": "арабский",
+		"capital": "Триполи",
+		"flag": "LY",
+		"currency": "динар",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Литва",
+		"language": "литовский",
+		"capital": "Вильнюс",
+		"flag": "LT",
+		"currency": "евро",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Лихтенштейн",
+		"language": "немецкий",
+		"capital": "Вадуц",
+		"flag": "LI",
+		"currency": "франк",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Мавритания",
+		"language": "арабский",
+		"capital": "Нуакшот",
+		"flag": "MR",
+		"currency": "угия",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Маврикий",
+		"language": "английский",
+		"capital": "Порт-Луи",
+		"flag": "MU",
+		"currency": "рупия",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Македония",
+		"language": "македонский",
+		"capital": "Скопье",
+		"flag": "MK",
+		"currency": "денар",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Малайзия",
+		"language": "малазийский",
+		"capital": "Куала-Лумпур",
+		"flag": "MY",
+		"currency": "ринггит",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Мали",
+		"language": "французский",
+		"capital": "Бамако",
+		"flag": "ML",
+		"currency": "франк",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Марокко",
+		"language": "арабский",
+		"capital": "Рабат",
+		"flag": "MA",
+		"currency": "дирхам",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Мексика",
+		"language": "испанский",
+		"capital": "Мехико",
+		"flag": "MX",
+		"currency": "песо",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Мозамбик",
+		"language": "португальский",
+		"capital": "Мапуту",
+		"flag": "MZ",
+		"currency": "метикал",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Молдавия",
+		"language": "молдавский",
+		"capital": "Мапуту",
+		"flag": "MZ",
+		"currency": "метикал",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Монголия",
+		"language": "монгольский",
+		"capital": "Улан-Батор",
+		"flag": "MN",
+		"currency": "тугрик",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Намибия",
+		"language": "английский",
+		"capital": "Виндхук",
+		"flag": "NA",
+		"currency": "доллар",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Непал",
+		"language": "непали",
+		"capital": "Катманду",
+		"flag": "NP",
+		"currency": "рупия",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Нидерланды",
+		"language": "нидерландский",
+		"capital": "Амстердам",
+		"flag": "NL",
+		"currency": "евро",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Никарагуа",
+		"language": "испанский",
+		"capital": "Манагуа",
+		"flag": "NI",
+		"currency": "золотая кордоба",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Новая Зеландия",
+		"language": "английский",
+		"capital": "Веллингтон",
+		"flag": "NZ",
+		"currency": "доллар",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Норвегия",
+		"language": "норвежский",
+		"capital": "Осло",
+		"flag": "NO",
+		"currency": "крона",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Оман",
+		"language": "арабский",
+		"capital": "Маскат",
+		"flag": "OM",
+		"currency": "риал",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Палау",
+		"language": "английский",
+		"capital": "Мелекеок",
+		"flag": "PW",
+		"currency": "доллар",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Папуа - Новая Гвинея",
+		"language": "английский",
+		"capital": "Порт-Морсби",
+		"flag": "PG",
+		"currency": "кина",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Польша",
+		"language": "польский",
+		"capital": "Варшава",
+		"flag": "PL",
+		"currency": "злотый",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Португалия",
+		"language": "португальский",
+		"capital": "Лиссабон",
+		"flag": "PT",
+		"currency": "евро",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Россия",
+		"language": "русский",
+		"capital": "Москва",
+		"flag": "RU",
+		"currency": "рубль",
+		"difficulty": 1 
+	},
+
+	{
+		"title": "Румыния",
+		"language": "румынский",
+		"capital": "Бухарест",
+		"flag": "RO",
+		"currency": "лей",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Сальвадор",
+		"language": "испанский",
+		"capital": "Сан-Сальвадор",
+		"flag": "SV",
+		"currency": "колон",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Сан-Марино",
+		"language": "итальянский",
+		"capital": "Сан-Марино",
+		"flag": "SM",
+		"currency": "евро",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Сан-Томе и Принсипи",
+		"language": "португальский",
+		"capital": "Сан-Томе",
+		"flag": "ST",
+		"currency": "добра",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Саудовская Аравия",
+		"language": "арабский",
+		"capital": "Эр-Рияд",
+		"flag": "SA",
+		"currency": "риял",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Северная Корея",
+		"language": "корейский",
+		"capital": "Пхеньян",
+		"flag": "KP",
+		"currency": "вона",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Сенегал",
+		"language": "французский",
+		"capital": "Дакар",
+		"flag": "SN",
+		"currency": "франк",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Сент-Люсия",
+		"language": "английский",
+		"capital": "Кастри",
+		"flag": "LC",
+		"currency": "доллар",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Сербия",
+		"language": "сербский",
+		"capital": "Белград",
+		"flag": "RS",
+		"currency": "динар",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Сирия",
+		"language": "арабский",
+		"capital": "Дамаск",
+		"flag": "SY",
+		"currency": "фунт",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Словакия",
+		"language": "словацкий",
+		"capital": "Братислава",
+		"flag": "SK",
+		"currency": "евро",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Словения",
+		"language": "словенский",
+		"capital": "Любляна",
+		"flag": "SI",
+		"currency": "евро",
+		"difficulty": 2
+	},
+
+	{
+		"title": "США",
+		"language": "английский",
+		"capital": "Вашингтон",
+		"flag": "US",
+		"currency": "доллар",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Судан",
+		"language": "арабский",
+		"capital": "Хартум",
+		"flag": "SD",
+		"currency": "фунт",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Суринам",
+		"language": "нидерландский",
+		"capital": "Парамарибо",
+		"flag": "SR",
+		"currency": "доллар",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Таджикистан",
+		"language": "таджикский",
+		"capital": "Душанбе",
+		"flag": "TJ",
+		"currency": "сомони",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Таиланд",
+		"language": "тайский",
+		"capital": "Бангкок",
+		"flag": "TH",
+		"currency": "бат",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Того",
+		"language": "французский",
+		"capital": "Ломе",
+		"flag": "TG",
+		"currency": "франк",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Тунис",
+		"language": "арабский",
+		"capital": "Тунис",
+		"flag": "TN",
+		"currency": "динар",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Турция",
+		"language": "турецкий",
+		"capital": "Анкара",
+		"flag": "TR",
+		"currency": "лира",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Уганда",
+		"language": "английский",
+		"capital": "Кампала",
+		"flag": "UG",
+		"currency": "шиллинг",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Узбекистан",
+		"language": "узбекский",
+		"capital": "Ташкент",
+		"flag": "UZ",
+		"currency": "сум",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Украина",
+		"language": "украинский",
+		"capital": "Киев",
+		"flag": "UA",
+		"currency": "гривна",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Фиджи",
+		"language": "английский",
+		"capital": "Сува",
+		"flag": "FJ",
+		"currency": "доллар",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Франция",
+		"language": "французский",
+		"capital": "Париж",
+		"flag": "FR",
+		"currency": "евро",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Хорватия",
+		"language": "хорватский",
+		"capital": "Загреб",
+		"flag": "HR",
+		"currency": "куна",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Чили",
+		"language": "испанский",
+		"capital": "Сантьяго",
+		"flag": "CL",
+		"currency": "песо",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Швеция",
+		"language": "шведский",
+		"capital": "Стокгольм",
+		"flag": "SE",
+		"currency": "крона",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Эквадор",
+		"language": "испанский",
+		"capital": "Кито",
+		"flag": "EC",
+		"currency": "доллар",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Эстония",
+		"language": "эстонский",
+		"capital": "Таллин",
+		"flag": "EE",
+		"currency": "евро",
+		"difficulty": 1
+	},
+
+	{
+		"title": "Эфиопия",
+		"language": "амхарский",
+		"capital": "Аддис-Абеба",
+		"flag": "ET",
+		"currency": "быр",
+		"difficulty": 4
+	},
+
+	{
+		"title": "Южная Корея",
+		"language": "корейский",
+		"capital": "Сеул",
+		"flag": "KR",
+		"currency": "вона",
+		"difficulty": 2
+	},
+
+	{
+		"title": "Ямайка",
+		"language": "английский",
+		"capital": "Кингстон",
+		"flag": "JM",
+		"currency": "доллар",
+		"difficulty": 3
+	},
+
+	{
+		"title": "Япония",
+		"language": "японский",
+		"capital": "Токио",
+		"flag": "JP",
+		"currency": "иена",
+		"difficulty": 1
+	}
+]

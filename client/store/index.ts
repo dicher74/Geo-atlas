@@ -1,11 +1,13 @@
 import { createStore } from "vuex"
 import VuexPersistence from "vuex-persist"
 import { type Lesson } from "~/custom-types/lesson"
+import type { Question } from "~/custom-types/question";
 
 interface State {
 	points: number,
 	ranks: {[key: number]: string},
-	lesson: Lesson
+	lesson: Lesson,
+	currentQuestions: Array<Question>
 }
 
 let vuexLocalStorage = null;
@@ -27,6 +29,7 @@ export const store = createStore<State> ({
 			points: undefined,
 			questionAmount: undefined,
 		},
+		currentQuestions: [],
 	},
 	mutations: {
 		setLessonType(state, newLessonType) {
